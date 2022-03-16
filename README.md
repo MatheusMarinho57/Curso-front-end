@@ -23,7 +23,7 @@ https://git-scm.com
 ## Criar conta no GitHub
 
 ## Clonar o projeto
-
+git clone https://github.com/MatheusMarinho57/Curso-front-end.git
 ## Commits
 Informação de alteração
 - Após testado todo seu código
